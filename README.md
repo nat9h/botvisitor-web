@@ -6,4 +6,6 @@ Requirement
 - Requests
 - Urllib
 
+Input your proxy first on proxylist.txt
+
 Run : python bot.py
